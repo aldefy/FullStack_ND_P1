@@ -5,5 +5,5 @@ Simple movie trailer website to exercise some programming foundations with pytho
 
 ## Screenshot
 
-![](content/Screen 1.png)
-![](content/Screen 2.png)
+![](/content/Screen 1.png)
+![](/content/Screen 2.png)
