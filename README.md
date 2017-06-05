@@ -1,7 +1,7 @@
 # Website: movie favorites.
 Simple movie trailer website to exercise some programming foundations with python.
 
-![](http://progressed.io/bar/95?title=Progress)
+![](http://progressed.io/bar/100?title=Progress)
 
 ## Screenshot
 
