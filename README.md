@@ -1,2 +1,2 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Website: movie favorites.
+Simple movie trailer website to exercise some programming foundations with python.
