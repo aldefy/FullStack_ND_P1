@@ -5,5 +5,7 @@ Simple movie trailer website to exercise some programming foundations with pytho
 
 ## Screenshot
 
+
 ![](https://github.com/aldefy/FullStack_ND_P1/blob/master/content/Screen%201.png)
 ![](https://github.com/aldefy/FullStack_ND_P1/blob/master/content/Screen%202.png)
+
